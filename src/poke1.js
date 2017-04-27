@@ -36,7 +36,7 @@ export default class Poke1 extends Component {
     <li><a href="http://localhost:3000/">Home</a></li>
     <li><a href="http://localhost:3000/blastoise">Blastoise</a></li>
     <li><a href="http://localhost:3000/hitmonlee">Hitmonlee</a></li>
-    <li><a href="http://localhost:3000/grimer">Grimer</a></li>
+    <li><a href="http://localhost:3000/grimer">Grimer!</a></li>
   </ul>
 </nav>
 
